@@ -1,6 +1,7 @@
 # StartPage
 A basic startpage for firefox, it looks fairly plain at the moment but i might update it in the future.
 I suggest uploading it to a site then setting that site as your default Home page as its probably the easiest way!
+If you dont have a site then just open the index.html and star the page / always have it open and it should work just the same (works on basically any browser)
 
 Enjoy!!!
 
